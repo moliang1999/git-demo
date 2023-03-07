@@ -1,0 +1,2 @@
+hello moliang
+this is my frist try to use git
